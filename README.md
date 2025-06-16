@@ -1,12 +1,16 @@
 ## yo 👋 (in the tone of Jesse Pinkman)
 
-my name is Dito and i like neural networks
+my name is Dito and i like computers
 
-## pretty cool stuff that i'm working on
-- implementing various neuralnet architectures in pytorch
-- making (or at least right now, trying to make time to lol) my own operating system
+## stuff i'm working on
+- writing neuralnet architectures in pytorch
+- making (trying to make time for, lol) my own operating system
 
-## saying hi
-You can reach me on:
+## current reads (happy to have discussions about)
+- convex optimization
+- [ggml sourcecode](https://github.com/ggml-org/ggml)
+- CUDA stuff
+
+## hmu
 - [Email](mailto:ryanditodua@gmail.com) (preferred)
 - [LinkedIn](https://www.linkedin.com/in/ryandito-diandaru/)
