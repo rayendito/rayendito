@@ -4,7 +4,7 @@ my name is Dito and i like computers
 
 ## stuff i'm working on
 - writing neuralnet architectures in pytorch
-- making (trying to make time for, lol) my own operating system
+- making (trying to make time for, lol) an operating system
 
 ## current reads (happy to have discussions about)
 - convex optimization
